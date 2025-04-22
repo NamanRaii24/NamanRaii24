@@ -17,12 +17,12 @@
   <img src="https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=F7DF1E" alt="Java Badge">
 </div>
 
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanRaii24/NamanRaii4/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamanRaii24/NamanRaii24/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamanRaii24/NamanRaii24/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NamanRaii24/NamanRaii24/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NamanRaii24/NamanRaii24/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NamanRaii24/NamanRaii24/output/github-contribution-grid-snake.svg">
+</picture>
 
 
