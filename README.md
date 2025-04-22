@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello! My name is Naman</h1>
-👩🏽‍💻 I am currentlylearning to be a full stack developer;<br>
+👩🏽‍💻 I am currently learning to be a full stack developer;<br>
 😎 Languages known : HTML, CSS, JavaScript and Java;<br>
 😍 Lets Connect
 <br><br>
