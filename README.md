@@ -5,7 +5,7 @@
 😍 Lets Connect
 <br><br>
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NamanRaii24&label=Profile%20views&color=0e75b6&style=flat" alt="NamanRaii24" /> </p>
 
 <div align="center">
 
